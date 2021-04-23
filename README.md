@@ -12,7 +12,8 @@ try {
 }
 ```
 ## Tests
-There are some testcases for the most common use cases. You can run tests for the following cases:
+There are some testcases for the most common use cases. All scaled images will be generated in build/resources/test/testImages.
+You can run tests for the following cases:
 - jpg
 - png
 - png transparent

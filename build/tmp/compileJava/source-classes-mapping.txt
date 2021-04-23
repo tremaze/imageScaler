@@ -1,8 +1,0 @@
-ScaledImage.java
- ScaledImage
-Exception/ImageTypeNotAllowedException.java
- Exception.ImageTypeNotAllowedException
-AllowedExtensions.java
- AllowedExtensions
-Compressor.java
- Compressor
